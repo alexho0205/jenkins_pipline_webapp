@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/jenkins_pipline_webapp.props" />
+</Project>
